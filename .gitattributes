@@ -1,0 +1,17 @@
+* text=auto
+*.md text eol=lf
+LICENSE text eol=lf
+*.pdf -text
+*.xlsx -text
+*.xls -text
+*.zip -text
+*.7z -text
+*.rar -text
+*.png -text
+*.jpg -text
+*.jpeg -text
+*.webp -text
+*.SchDoc -text
+*.PcbDoc -text
+*.svg text eol=lf
+*.sha256 text eol=lf
